@@ -30,8 +30,8 @@ There are some pacakage used, such as:
 
 | Plugin | README |
 | ------ | ------ |
-| Datatable | [https://yajrabox.com/docs/laravel-datatables/master/installation][PlDb] |
-| Faker | [https://github.com/fzaninotto/Faker][PlGh] |
+| Datatable | [https://yajrabox.com/docs/laravel-datatables/master/installation] |
+| Faker | [https://github.com/fzaninotto/Faker] |
 
 License
 ----
